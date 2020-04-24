@@ -1,0 +1,17 @@
+$font-main: sans-serif, Helvetica, Arial;
+$color-main: #ccc;
+$color-second: hotpink;
+$color-default:black;
+
+
+body{
+    background-color: $color-main;
+}
+
+h1{
+    font-family: $font-main;;
+    color: $color-second;
+}
+p{
+    color: $color-default;
+}
